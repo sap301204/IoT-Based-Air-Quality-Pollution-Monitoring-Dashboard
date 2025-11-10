@@ -1,0 +1,6 @@
+Component,Quantity,Model,Description
+ESP32,1,ESP32-DevKitC,Microcontroller board
+Gas Sensor,1,MQ135,Air quality gas sensor
+PM Sensor,1,PMS5003,Particulate matter sensor
+Temp/Humidity,1,DHT22,Environmental sensor
+Power Supply,1,5V 2A,Power adapter

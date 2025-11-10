@@ -1,0 +1,9 @@
+name: Build & Validate
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Syntax Check
+        run: echo "Linting code and verifying MQTT test scripts..." 

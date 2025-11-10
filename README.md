@@ -15,9 +15,6 @@ A complete IoT system that monitors air quality parameters (CO₂, PM2.5, temper
 
 ## 🚀 Quick Start
 ```bash
-# Firmware upload
 arduino-cli upload -p COM3 --fqbn esp32:esp32:esp32 firmware/main.ino
-
-# Start local dashboard
-cd web-ui
-python -m http.server 8000
+cd web-ui && python -m http.server 8000
+```

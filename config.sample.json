@@ -1,0 +1,7 @@
+{
+  "wifi_ssid": "Your_SSID",
+  "wifi_password": "Your_Password",
+  "mqtt_broker": "broker.hivemq.com",
+  "mqtt_port": 1883,
+  "device_id": "AQM001"
+}

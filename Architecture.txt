@@ -1,0 +1,3 @@
+Sensors -> ESP32 -> MQTT Broker -> Web Dashboard
+Communication Protocol: MQTT over WiFi
+Dashboard: WebSocket MQTT client
